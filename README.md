@@ -134,6 +134,20 @@ http://localhost/brand-store/admin/orders
 - إذا وجدت مشكلة في المسارات، تأكد من أن اسم المشروع في الروابط يتطابق مع اسم مجلد المشروع الذي قمت بنسخه.
 - بعض الملفات أو الصور قد تكون محدثة داخل المشروع، لذا تأكد من مراجعة محتويات `public/assets/images` قبل الاستخدام.
 
+## لقطات توضيحية
+
+> تم استخدام الصور الحالية داخل المشروع كعينات توضيحية في هذا الملف. يمكنك استبدالها لاحقاً بصورة شاشة حقيقية أو صور أكثر احترافية.
+
+### شعار المشروع
+
+![Brand Store Logo](public/assets/images/logo.jpg)
+
+### أمثلة من صور المنتجات
+
+![Product Example 1](public/assets/images/1789317519_6aa6d18f9ee5a.jpg)
+![Product Example 2](public/assets/images/1789318403_6aa6d503073a0.jpg)
+![Product Example 3](public/assets/images/1789318557_6aa6d59ddbece.jpg)
+
 ## التطوير المستقبلي
 
 يمكنك توسيع المشروع لاحقاً بإضافة:
